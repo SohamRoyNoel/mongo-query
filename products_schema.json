@@ -1,0 +1,92 @@
+[{
+  "_id": {
+    "$oid": "643fcdc51e9fad05ab88bca5"
+  },
+  "isProductDisplayAble": true,
+  "variantIdsArr": [],
+  "productTags": [
+    {
+      "$oid": "6423ce0af4db0d397b22390c"
+    },
+    {
+      "$oid": "6423b723f226c91a55d756bc"
+    }
+  ],
+  "productColor": [
+    "zomp",
+    "zaffre"
+  ],
+  "productPriceUnit": "USD",
+  "productMaterial": [],
+  "productSleeveType": [],
+  "productPatternType": [],
+  "productCareType": [],
+  "dressStyle": [],
+  "isProductInStock": true,
+  "isProductVariationExists": false,
+  "isApprovedByAdmin": false,
+  "isImageCompliant": false,
+  "isDeleted": false,
+  "isArchived": false,
+  "stockAvailability": "IS",
+  "categoryOneId": {
+    "$oid": "63db59c7819b5f66234e4c42"
+  },
+  "categoryTwoId": {
+    "$oid": "63db59f9819b5f66234e4c43"
+  },
+  "categoryThreeId": {
+    "$oid": "63db5a07819b5f66234e4c44"
+  },
+  "brandId": {
+    "$oid": "640f55c460748b084a2fc2be"
+  },
+  "shopId": {
+    "$oid": "64059328f5cc1c044cfa4b2b"
+  },
+  "createdBy": {
+    "$oid": "640590b5f5cc1c044cfa4b2a"
+  },
+  "productImages": [],
+  "bookings": [],
+  "createdAt": {
+    "$date": "2023-04-19T11:17:25.876Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T11:19:44.240Z"
+  },
+  "__v": 0,
+  "geoLocation": {
+    "coordinates": [
+      88.3556352,
+      22.626304
+    ],
+    "type": "Point"
+  },
+  "globalTradeItemNumber": "12345678",
+  "launchDate": {
+    "$date": "2023-04-22T00:00:00.000Z"
+  },
+  "packageDimensions": {
+    "length": 6,
+    "width": 4,
+    "height": 5,
+    "unit": "inch"
+  },
+  "productBrief": "Brief 1",
+  "productDescription": "No desc",
+  "productLength": 25,
+  "productLengthUnit": "CM",
+  "productNeckStyle": "Collar",
+  "productPrice": 500,
+  "productSize": 5,
+  "productSizeIndicator": "XXS",
+  "productTitle": "Product 1",
+  "productWeight": {
+    "weight": 5,
+    "unit": "kilogram"
+  },
+  "quantity": 6000,
+  "slug": "male-product-1",
+  "targetGender": "MALE"
+}]
