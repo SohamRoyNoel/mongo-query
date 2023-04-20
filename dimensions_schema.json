@@ -1,0 +1,115 @@
+[{
+  "_id": {
+    "$oid": "6423b6faf226c91a55d756b9"
+  },
+  "isDeleted": false,
+  "isArchived": false,
+  "dimensionType": "Collection",
+  "dimensionTypeSlug": "collection",
+  "dimensionTypeToLower": "collection",
+  "dimension": [
+    {
+      "isDeleted": false,
+      "isArchived": false,
+      "_id": {
+        "$oid": "6423b71df226c91a55d756bb"
+      },
+      "dimensionChild": "Spring",
+      "dimensionChildToLower": "spring",
+      "dimensionChildSlug": "spring"
+    },
+    {
+      "isDeleted": false,
+      "isArchived": false,
+      "_id": {
+        "$oid": "6423b723f226c91a55d756bc"
+      },
+      "dimensionChild": "Summer",
+      "dimensionChildToLower": "summer",
+      "dimensionChildSlug": "summer"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-03-29T03:56:42.370Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-29T18:22:40.114Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6423cddbf4db0d397b22390a"
+  },
+  "isDeleted": false,
+  "isArchived": false,
+  "dimensionType": "Occassions",
+  "dimensionTypeSlug": "occassions",
+  "dimensionTypeToLower": "occassions",
+  "dimension": [
+    {
+      "isDeleted": false,
+      "isArchived": false,
+      "_id": {
+        "$oid": "6423cde4f4db0d397b22390b"
+      },
+      "dimensionChild": "Wedding",
+      "dimensionChildToLower": "wedding",
+      "dimensionChildSlug": "wedding"
+    },
+    {
+      "isDeleted": false,
+      "isArchived": false,
+      "_id": {
+        "$oid": "6423ce0af4db0d397b22390c"
+      },
+      "dimensionChild": "Business Casual",
+      "dimensionChildToLower": "business casual",
+      "dimensionChildSlug": "business-casual"
+    },
+    {
+      "isDeleted": false,
+      "isArchived": false,
+      "_id": {
+        "$oid": "6423ce18f4db0d397b22390d"
+      },
+      "dimensionChild": "Formal",
+      "dimensionChildToLower": "formal",
+      "dimensionChildSlug": "formal"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-03-29T05:34:19.300Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-29T05:35:20.294Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64247db9ca77ff3fa80cba08"
+  },
+  "isDeleted": false,
+  "isArchived": false,
+  "dimensionType": "Festivals",
+  "dimensionTypeSlug": "festivals",
+  "dimensionTypeToLower": "festivals",
+  "dimension": [
+    {
+      "isDeleted": false,
+      "isArchived": false,
+      "_id": {
+        "$oid": "64247dd3ca77ff3fa80cba09"
+      },
+      "dimensionChild": "Christmas",
+      "dimensionChildToLower": "christmas",
+      "dimensionChildSlug": "christmas"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-03-29T18:04:41.061Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-29T18:28:46.628Z"
+  },
+  "__v": 0
+}]
